@@ -1,0 +1,8 @@
+version: 1.1.0
+files:
+  - url: NovenzaArteERP_Setup_1.1.0.exe
+    sha512: ejh4WQ536YfmjCxCeFtYXNHx2YfJJ6/JnodT72cBwNLW39sQvrjZFjFaI+Nr3qn5gNlI1IwUMazy0AJHEvsVXw==
+    size: 87116043
+path: NovenzaArteERP_Setup_1.1.0.exe
+sha512: ejh4WQ536YfmjCxCeFtYXNHx2YfJJ6/JnodT72cBwNLW39sQvrjZFjFaI+Nr3qn5gNlI1IwUMazy0AJHEvsVXw==
+releaseDate: '2026-11-23T18:18:40.780Z'
